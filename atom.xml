@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pixelsandbraincells.github.io/</id>
-    <title>PixelsandBrainCells</title>
-    <updated>2021-06-23T16:46:55.806Z</updated>
+    <title>Pixels and Brain Cells</title>
+    <updated>2021-06-23T16:55:22.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pixelsandbraincells.github.io/"/>
     <link rel="self" href="https://pixelsandbraincells.github.io/atom.xml"/>
     <subtitle>兴趣使然的无名设计师</subtitle>
     <logo>https://pixelsandbraincells.github.io/images/avatar.png</logo>
     <icon>https://pixelsandbraincells.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, PixelsandBrainCells</rights>
+    <rights>All rights reserved 2021, Pixels and Brain Cells</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://pixelsandbraincells.github.io/post/hello-gridea/</id>
