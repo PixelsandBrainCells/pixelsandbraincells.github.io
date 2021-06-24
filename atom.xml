@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pixelsandbraincells.github.io/</id>
     <title>Pixels and Brain Cells</title>
-    <updated>2021-06-24T17:45:48.140Z</updated>
+    <updated>2021-06-24T17:55:15.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pixelsandbraincells.github.io/"/>
     <link rel="self" href="https://pixelsandbraincells.github.io/atom.xml"/>
@@ -10,4 +10,28 @@
     <logo>https://pixelsandbraincells.github.io/images/avatar.png</logo>
     <icon>https://pixelsandbraincells.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Pixels and Brain Cells</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://pixelsandbraincells.github.io/post/about-me/</id>
+        <link href="https://pixelsandbraincells.github.io/post/about-me/">
+        </link>
+        <updated>2021-04-24T02:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="pixels-and-brain-cells">Pixels and Brain Cells</h1>
+<p>📍 Japan/Tokyo</p>
+<br>
+<p>Just another UI designer.</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="pixels-and-brain-cells">Pixels and Brain Cells</h1>
+<p>📍 Japan/Tokyo</p>
+<br>
+<p>Just another UI designer.</p>
+<!-- more -->
+<p>Now learning about coding.</p>
+<p>My job is to deliver great experiences, from pixels to brain cells.</p>
+<br>
+<p>ただもうひとりのUIデザイナー。</p>
+<p>プログラミングを学んでいます。</p>
+<p>仕事はピクセルから脳細胞まで、素晴らしい体験を提供することです。</p>
+]]></content>
+    </entry>
 </feed>
