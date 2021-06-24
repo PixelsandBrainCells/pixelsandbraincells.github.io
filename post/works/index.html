@@ -3,13 +3,14 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Test | Pixels and Brain Cells</title>
-<link rel="shortcut icon" href="https://pixelsandbraincells.github.io//favicon.ico?v=1624566093577">
+<link rel="shortcut icon" href="https://pixelsandbraincells.github.io//favicon.ico?v=1624567227473">
 <link href="https://cdn.remixicon.com/releases/v2.1.0/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://pixelsandbraincells.github.io//styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="Test | Pixels and Brain Cells - Atom Feed" href="https://pixelsandbraincells.github.io//atom.xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 
     <meta name="description" content="
 ..." />
@@ -22,7 +23,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://pixelsandbraincells.github.io/">
-  <img class="avatar" src="https://pixelsandbraincells.github.io//images/avatar.png?v=1624566093577" alt="">
+  <img class="avatar" src="https://pixelsandbraincells.github.io//images/avatar.png?v=1624567227473" alt="">
   </a>
   <h1 class="site-title">
     Pixels and Brain Cells
@@ -109,6 +110,15 @@
           </article>
         </div>
 
+        <div id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: '<ohH7kjCspj9lGPTFd3Odiz0U-gzGzoHsz>',
+            appKey: '<MGO07fTszuBhIYOiC09warBk>'
+        })
+    </script>
+
         
           <div class="next-post">
             <div class="next">下一篇</div>
@@ -160,7 +170,7 @@
               if (nextSection.offsetTop > fromTop) {
                 link.classList.add("current");
               } else {
-                link.classList.remove("current");    
+                link.classList.remove("current");
               }
             } else {
               link.classList.add("current");
