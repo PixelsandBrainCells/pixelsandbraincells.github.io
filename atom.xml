@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pixelsandbraincells.github.io/</id>
     <title>Pixels and Brain Cells</title>
-    <updated>2021-06-24T17:57:20.050Z</updated>
+    <updated>2021-06-24T17:58:34.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pixelsandbraincells.github.io/"/>
     <link rel="self" href="https://pixelsandbraincells.github.io/atom.xml"/>
@@ -15,13 +15,13 @@
         <id>https://pixelsandbraincells.github.io/post/about-me/</id>
         <link href="https://pixelsandbraincells.github.io/post/about-me/">
         </link>
-        <updated>2021-04-24T02:41:00.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="pixels-and-brain-cells">Pixels and Brain Cells</h1>
+        <updated>2021-04-24T03:41:00.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="pixels-and-brain-cells">Pixels and Brain Cells</h2>
 <p>📍 Japan/Tokyo</p>
 <br>
 <p>Just another UI designer.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h1 id="pixels-and-brain-cells">Pixels and Brain Cells</h1>
+        <content type="html"><![CDATA[<h2 id="pixels-and-brain-cells">Pixels and Brain Cells</h2>
 <p>📍 Japan/Tokyo</p>
 <br>
 <p>Just another UI designer.</p>
