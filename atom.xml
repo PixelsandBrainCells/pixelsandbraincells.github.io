@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pixelsandbraincells.github.io/</id>
     <title>Pixels and Brain Cells</title>
-    <updated>2021-06-25T06:19:08.038Z</updated>
+    <updated>2021-06-25T10:15:34.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pixelsandbraincells.github.io/"/>
     <link rel="self" href="https://pixelsandbraincells.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://pixelsandbraincells.github.io/images/avatar.png</logo>
     <icon>https://pixelsandbraincells.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Pixels and Brain Cells</rights>
+    <entry>
+        <title type="html"><![CDATA[Photography 18/19]]></title>
+        <id>https://pixelsandbraincells.github.io/post/photography-1819/</id>
+        <link href="https://pixelsandbraincells.github.io/post/photography-1819/">
+        </link>
+        <updated>2021-06-25T11:10:10.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://pixelsandbraincells.github.io//post-images/1624615948846.png" alt="" loading="lazy"><br>
+<br><br>
+<img src="https://pixelsandbraincells.github.io//post-images/1624615968858.png" alt="" loading="lazy"><br>
+<br><br>
+<img src="https://pixelsandbraincells.github.io//post-images/1624615975397.png" alt="" loading="lazy"><br>
+<br><br>
+<img src="https://pixelsandbraincells.github.io//post-images/1624615980850.png" alt="" loading="lazy"><br>
+<br><br>
+<br><br>
+<br></p>
+<hr>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[About Me]]></title>
         <id>https://pixelsandbraincells.github.io/post/about/</id>
