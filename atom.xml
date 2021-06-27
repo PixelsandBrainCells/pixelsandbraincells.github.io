@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pixelsandbraincells.github.io/</id>
     <title>Pixels and Brain Cells</title>
-    <updated>2021-06-27T17:10:27.313Z</updated>
+    <updated>2021-06-27T18:30:12.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pixelsandbraincells.github.io/"/>
     <link rel="self" href="https://pixelsandbraincells.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://pixelsandbraincells.github.io/images/avatar.png</logo>
     <icon>https://pixelsandbraincells.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Pixels and Brain Cells</rights>
+    <entry>
+        <title type="html"><![CDATA[RSS 食用指南]]></title>
+        <id>https://pixelsandbraincells.github.io/post/rss-shi-yong-zhi-nan/</id>
+        <link href="https://pixelsandbraincells.github.io/post/rss-shi-yong-zhi-nan/">
+        </link>
+        <updated>2021-06-27T18:57:08.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>RSS，也就是“Really Simple Syndication（简易信息聚合）”，简而言之是一种消息来源格式规范，用来聚合网络上的各种网站的最新内容，<s>是早期人类驯服互联网庞杂信息流的神器之一</s>。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>RSS，也就是“Really Simple Syndication（简易信息聚合）”，简而言之是一种消息来源格式规范，用来聚合网络上的各种网站的最新内容，<s>是早期人类驯服互联网庞杂信息流的神器之一</s>。</p>
+</blockquote>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photography 18/19]]></title>
         <id>https://pixelsandbraincells.github.io/post/photography-1819/</id>
